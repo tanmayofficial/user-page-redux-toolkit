@@ -4,7 +4,7 @@ import styled from "styled-components";
 const Navbar = () => {
   return (
     <Wrapper>
-      <h1>Admin Panel</h1>
+      <h1>Admin</h1>
 
       <section>
         <div>One Destination for complete Web Development</div>
